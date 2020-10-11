@@ -1,2 +1,2 @@
 # CV-Form
-https://anisurrahmanlikohn.github.io/CV-Form/
+https://anisurrahmanlikhon.github.io/CV-Form/
